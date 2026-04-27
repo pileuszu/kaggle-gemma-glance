@@ -18,9 +18,8 @@ Thumbs.db
 .idea/
 
 # Project Specific
-assets/models/*.tflite
-assets/models/*.bin
+debug_images/
+assets/models/
+model/
 *.log
-
-# Kaggle
-.kaggle/
+scratch/
